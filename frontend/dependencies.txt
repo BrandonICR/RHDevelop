@@ -1,0 +1,26 @@
+Añadir bootstrap al proyecto de react
+>> yarn add bootstrap
+
+Añadir la combinación de react y bootstrap
+>> yarn add reactstrap
+
+Añadir Font-Awesome al proyecto react
+>> yarn add font-awesome
+
+Instalar react router dom
+>> yarn add react-router-dom
+
+Instalar redux para react
+>> yarn add redux
+
+Instalar react-redux
+>> yarn add react-redux
+
+Instalar react-redux-form
+>> yarn add react-redux-form
+
+Instalar redux Thunk
+yarn add redux-thunk
+
+Instalar axios
+yarn add axios
